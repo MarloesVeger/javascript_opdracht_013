@@ -1,0 +1,25 @@
+.body {
+    background-image: url("dice.jpeg");
+    background-size: 100%;
+}
+
+.headlines {
+    color: white;
+    font-family: fantasy;
+    font-size: 50px;
+    margin: auto;
+    width: 550px; 
+}
+
+.gameBorder {
+    border: 5px;
+    border-radius: 20px;
+    background-color: rgb(158, 226, 243);
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    line-height: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
